@@ -2,7 +2,7 @@
 title: Second post
 subtitle: Here's another post to try
 date: 2020-07-08T15:09:47.388Z
-draft: false
+draft: true
 featured: false
 image:
   filename: plagiarismad.jpg
