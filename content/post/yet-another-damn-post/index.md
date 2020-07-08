@@ -1,7 +1,7 @@
 ---
 title: Yet another damn post
 subtitle: Try the save now, the Publish Now.
-date: 2020-07-08T22:07:00.710Z
+date: 2020-07-08T22:07:27.415Z
 draft: false
 featured: false
 image:
