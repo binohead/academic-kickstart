@@ -1,12 +1,13 @@
 ---
+title: Andy Horn
+role: Thinker. Leader.
+avatar_filename: bluejay.jpg
 organizations:
   - name: Dalhousie University
     url: https://www.dal.ca
 superuser: true
 authors:
   - admin
-title: Andy Horn
-role: Thinker. Leader.
 bio: My day job is studying animal communication, but I do lots of other stuff, too.
 interests:
   - Birds
