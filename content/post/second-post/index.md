@@ -5,7 +5,7 @@ date: 2020-07-08T22:14:30.350Z
 draft: false
 featured: false
 image:
-  filename: bluejay.jpg
+  filename: p1030761.jpg
   focal_point: Smart
   preview_only: false
 ---
