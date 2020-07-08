@@ -1,7 +1,7 @@
 ---
 title: Andy Horn
 role: Thinker. Leader.
-avatar_filename: bluejay.jpg
+avatar_filename: rhodoraclip.jpg
 organizations:
   - name: Dalhousie University
     url: https://www.dal.ca
