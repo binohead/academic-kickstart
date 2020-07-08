@@ -6,8 +6,8 @@ header:
   image: ""
 title: First post
 subtitle: A test of yet another blogging engine.
-date: 2020-07-08T18:28:29.498Z
-featured: true
+date: 2020-07-08T19:28:30.319Z
+featured: false
 image:
   filename: bluejay.jpg
   preview_only: false
