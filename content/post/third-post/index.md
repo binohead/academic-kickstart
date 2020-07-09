@@ -1,11 +1,11 @@
 ---
 title: Third post
 subtitle: See if this works.
-date: 2020-07-08T19:57:49.762Z
+date: 2020-07-09T10:10:09.206Z
 draft: false
 featured: false
 image:
-  filename: plagiarismad.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
