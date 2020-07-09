@@ -6,7 +6,7 @@ draft: false
 featured: false
 external_link: http://leonardlab.biology.dal.ca/Andy/
 image:
-  filename: featured
+  filename: bluejay.jpg
   focal_point: Smart
   preview_only: false
 ---
