@@ -6,7 +6,7 @@ header:
   image: ""
 title: First post
 subtitle: A test of yet another blogging engine.
-date: 2020-07-08T19:28:30.319Z
+date: 2020-07-09T10:06:13.723Z
 featured: false
 image:
   filename: featured.jpg
