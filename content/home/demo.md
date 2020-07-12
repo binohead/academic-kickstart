@@ -10,7 +10,7 @@ title = "binohead home"
 subtitle = ""
 
 [design]
-  # We did, too.
+  # We did, too. So we acted.
   columns = "1"
 
 [design.background]
