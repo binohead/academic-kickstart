@@ -20,7 +20,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color [I uncommented this].
-  color = "DEEPSKYBLUE"
+  color = "blue"
 
   # Background gradient [removed].
 
