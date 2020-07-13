@@ -1,5 +1,5 @@
 +++
-# Ever wonder what birds do?
+Ever wonder what birds do?
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -10,7 +10,7 @@ title = "binohead home"
 subtitle = ""
 
 [design]
-  # We did, too. So we acted.
+We did, too. So we acted.
   columns = "1"
 
 [design.background]
