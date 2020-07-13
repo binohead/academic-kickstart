@@ -97,7 +97,7 @@ address = {street = "1355 Oxford St.", city = "Halifax", region = "NS", postcode
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "44°38'09.9", longitude = "63°35'37.7"}
+coordinates = {latitude = "44.63583333", longitude = "63.59361111"}
 
 # Directions for visitors to locate you.
 directions = "Room 4060"
