@@ -1,5 +1,5 @@
 +++
-Ever wonder what birds do?
+
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -10,7 +10,7 @@ title = "binohead home"
 subtitle = ""
 
 [design]
-We did, too. So we acted.
+
   columns = "1"
 
 [design.background]
@@ -47,6 +47,8 @@ We did, too. So we acted.
 +++
 
 Welcome to the **Academic Kickstart** template!
+
+Ever wonder what birds do? We did, too. So we acted.
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
