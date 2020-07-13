@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "binohead home"
+title = "home of binohead"
 subtitle = ""
 
 [design]
@@ -46,14 +46,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
-
 Ever wonder what birds do? We did, too. So we acted.
+**binohead**
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
+Read the posts [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/). Read the projects [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 {{% /alert %}}
