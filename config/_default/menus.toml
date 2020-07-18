@@ -5,8 +5,13 @@
 
 color = "DodgerBlue"
 
+# [[main]]
+#  name = "Home"
+#  url = "#featured"
+#  weight = 10
+
 [[main]]
-  name = "Home"
+  name = "bh's latest dropping"
   url = "#featured"
   weight = 10
 
@@ -19,11 +24,6 @@ color = "DodgerBlue"
   name = "Projects"
   url = "#projects"
   weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
 
 [[main]]
   name = "Contact"
