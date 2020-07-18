@@ -11,7 +11,7 @@ color = "DodgerBlue"
 #  weight = 10
 
 [[main]]
-  name = "bh's latest dropping"
+  name = "Latest"
   url = "#featured"
   weight = 10
 
