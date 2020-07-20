@@ -20,7 +20,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color [I uncommented this].
-  color = "dodgerblue"
+  color = "lightgrey"
 
   # Background gradient [removed].
 
@@ -32,7 +32,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -52,7 +52,7 @@ binohead
 <p class="lead">A bare-bones gathering of links that you might find handy</p>
 
 <div class="row">
-<div class="col-sm-6" style="background-color:lightgrey;">
+<div class="col-sm-6" style="background-color:white;">
 <h3>Birding tips</h3>
 
 <hr />
@@ -72,7 +72,7 @@ binohead
 </ol>
 </div>
 
-<div class="col-sm-6" style="background-color:lightgrey;">
+<div class="col-sm-6" style="background-color:white;">
 <h3>Tips for students</h3>
 
 <hr />
@@ -91,7 +91,7 @@ binohead
 </div>
 
 <div class="row">
-<div class="col-sm-6" background="white">
+<div class="col-sm-6" style="background-color:white;">
 <h3>Research</h3>
 
 <hr />
@@ -105,7 +105,7 @@ Click&nbsp;<a href="http://maps.google.ca/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&am
 Click&nbsp;<a href="http://leonardlab.biology.dal.ca/Andy/publications.html">here</a>&nbsp;to see a partial list of my publications, with pdf&#39;s of some.</p>
 </div>
 
-<div class="col-sm-6" style="background-color:lightgrey;">
+<div class="col-sm-6" style="background-color:white;">
 <h3>Teaching</h3>
 
 <hr />
@@ -119,8 +119,4 @@ Check out their links if you&#39;re interested in taking them, or if you&#39;re 
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://myweb.dal.ca/aghorn/biol3630/index.html" target="blank">Field Methods in Animal Behaviour</a>&nbsp;(BIOL3630), a field course with (phew!)&nbsp;&lt;&nbsp;25 students</p>
 </div>
-**binohead**
 
-{{% alert note %}}
-Read the posts [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/). Read the projects [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-{{% /alert %}}
