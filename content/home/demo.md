@@ -51,7 +51,7 @@ Ever wonder what birds do? We did, too. The result?
 ***binohead***
 
 
-<p class="lead">A bare-bones gathering of links that you might find handy</p>
+<p class="lead">Come for these handy links. Leave for the awful posts.</p>
 
 <div class="row">
 <div class="col-sm-6" style="background-color:white;">
