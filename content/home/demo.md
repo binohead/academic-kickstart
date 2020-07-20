@@ -51,7 +51,7 @@ Ever wonder what birds do? We did, too. The result?
 ***binohead***
 
 
-<p class="lead">Come for these handy links. Leave for the awful posts.</p>
+<p class="lead">Come for these handy links. Leave for the awful posts. Binohead (am I overdoing it?)</p>
 
 <div class="row">
 <div class="col-sm-6" style="background-color:white;">
