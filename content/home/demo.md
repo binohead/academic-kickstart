@@ -52,7 +52,7 @@ binohead
 <p class="lead">A bare-bones gathering of links that you might find handy</p>
 
 <div class="row">
-<div class="col-sm-6"  style="background-color:white;">
+<div class="col-sm-6" style="background-color:lightgrey;">
 <h3>Birding tips</h3>
 
 <hr />
@@ -72,7 +72,7 @@ binohead
 </ol>
 </div>
 
-<div class="col-sm-6" background="white">
+<div class="col-sm-6" style="background-color:lightgrey;">
 <h3>Tips for students</h3>
 
 <hr />
@@ -105,7 +105,7 @@ Click&nbsp;<a href="http://maps.google.ca/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&am
 Click&nbsp;<a href="http://leonardlab.biology.dal.ca/Andy/publications.html">here</a>&nbsp;to see a partial list of my publications, with pdf&#39;s of some.</p>
 </div>
 
-<div class="col-sm-6" background="white">
+<div class="col-sm-6" style="background-color:lightgrey;">
 <h3>Teaching</h3>
 
 <hr />
