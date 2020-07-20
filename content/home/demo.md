@@ -52,7 +52,7 @@ binohead
 <p class="lead">A bare-bones gathering of links that you might find handy</p>
 
 <div class="row">
-<div class="col-sm-6" background="white">
+<div class="col-sm-6"  style="background-color:white;">
 <h3>Birding tips</h3>
 
 <hr />
