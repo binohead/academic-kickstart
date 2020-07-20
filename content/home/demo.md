@@ -46,8 +46,10 @@ subtitle = ""
  css_class = ""
 +++
 
-Ever wonder what birds do? We did, too. So we acted.
-binohead
+Ever wonder what birds do? We did, too. The result?
+<b></b>
+***binohead***
+
 
 <p class="lead">A bare-bones gathering of links that you might find handy</p>
 
